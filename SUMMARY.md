@@ -2,7 +2,5 @@
 
 * [Introducción](README.md)
 * [¿Cómo actualizo mi perfil?](/actualizacion-perfil.md)
-* [How can I do X?](second-question.md)
-
-
+* [Marcar actividad como completada](marcar-actividad-como-completada.md)
 
