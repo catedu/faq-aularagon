@@ -1,1 +1,2 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+Aquí encontrarás una lista de las preguntas más frecuentes sobre Aularagón. Si no encuentras respuesta a tu duda, [contacta con nosotros](http://web.catedu.es/hesk/index.php?a=add).
+
