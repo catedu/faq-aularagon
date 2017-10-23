@@ -9,6 +9,7 @@
 ## Finalización del curso
 
 * [He recibido el certificado del curso pero el sistema no me envió la insignia](he-recibido-el-certificado-del-curso-pero-el-sistema-no-me-envio-la-insignia.md)
+* [Dónde puedo ver mis insignias](donde-puedo-ver-mis-insignias.md)
 
 ## Foros
 
