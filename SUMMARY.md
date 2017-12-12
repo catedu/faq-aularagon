@@ -16,3 +16,6 @@
 
 * [Respondiendo un mensaje en el foro](foros/respondiendo-un-mensaje-en-el-foro.md)
 
+---
+* [Créditos](crditos.md)
+
