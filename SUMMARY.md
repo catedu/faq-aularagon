@@ -7,6 +7,10 @@
 * [¿Cómo puedo aportar y mejorar los cursos?](como-puedo-aportar-y-mejorar-los-cursos.md)
 * [Cómo contactar con el tutor](como-contactar-con-el-tutor.md)
 
+## Tareas
+
+* [Entrega de tareas](entrega-de-tareas.md)
+
 ## Finalización del curso
 
 * [He recibido el certificado del curso pero el sistema no me envió la insignia](he-recibido-el-certificado-del-curso-pero-el-sistema-no-me-envio-la-insignia.md)
