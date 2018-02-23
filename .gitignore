@@ -9,6 +9,9 @@
 # Book build output
 _book
 
+# Plugins folder
+node_modules
+
 # eBook build output
 *.epub
 *.mobi
