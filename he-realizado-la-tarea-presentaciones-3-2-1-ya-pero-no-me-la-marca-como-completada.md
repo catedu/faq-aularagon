@@ -6,7 +6,3 @@ Para superar esta tarea deben darse dos condiciones:
 
 La tarea no aparecerá marcada en verde -superada- hasta que no se cumplan ambas condiciones.
 
-
-
-
-
