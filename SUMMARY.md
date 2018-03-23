@@ -1,11 +1,12 @@
 # Summary
 
 * [Introducción](README.md)
+* [Accede a esta ayuda desde Aularagón](accede-a-preguntas-frecuentes.md)
+
 
 ## Comunidad
 * [¿Cómo puedo aportar y mejorar los cursos?](como-puedo-aportar-y-mejorar-los-cursos.md)
 * [Cómo contactar con el tutor](como-contactar-con-el-tutor.md)
-* [Accede a esta ayuda desde Aularagón](accede-a-preguntas-frecuentes.md)
 
 ## Descarga
 * [¿Cómo puedo descargar los contenidos?](como-puedo-descargar-los-contenidos.md)
