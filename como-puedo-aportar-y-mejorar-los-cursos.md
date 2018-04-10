@@ -14,7 +14,7 @@ Ese enlace te lleva a la url donde podrás crear tu cuenta Gitbook
 
 ![](/assets/FAQ comentarios2c.png)
 
-Ahora ya tienes una cuenta en gitbook, vuelve al párrafo donde querías hacer un comentario.
+Ahora ya tienes una cuenta en gitbook, vuelve al párrafo donde querías hacer un comentario. 
 
 Escribe el comentario en el cuadro de texto que aparece y pulsa **"Post"**
 
