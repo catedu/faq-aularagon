@@ -18,7 +18,9 @@
 
 ## Foros
 
+* [Escribir un mensaje en el foro](foros/escribir-mensaje-foro.md)
 * [Respondiendo un mensaje en el foro](foros/respondiendo-un-mensaje-en-el-foro.md)
+
 ## Tareas
 
 * [¿Cómo actualizo mi perfil?](/actualizacion-perfil.md)
