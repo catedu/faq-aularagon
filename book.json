@@ -1,5 +1,1 @@
-{
-    "plugins": ["theme-faq"],
-    "title": "Preguntas frecuentes - Aularagón",
-    "language": "es"
-}
+{"plugins": ["theme-faq", "edit-link", "githubcontributors"], "title": "Preguntas frecuentes - Aularagón", "language": "es", "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/faq-aularagon/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "faq-aularagon"}}}
