@@ -2,13 +2,14 @@
 
 Para contactar con tu tutor, desde la página inicial del curso, clica en participantes.
 
-![](/assets/Selección_314.png)
+![](/assets/Selección_606.png)
 
-A continuación, en el desplegable _Rol actual_ selecciona el rol _Profesor_.
+Clicamos en  el nombre del usuario que tiene como Rol _Profesor_.
 
-![](/assets/Selección_315.png)
+Una vez en su página de perfil, clicamos en _Mensaje_.
 
-Clicamos en su usuario y, ya en su página de perfil, clicamos en _Mensaje_.
+![](/assets/Selección_607.png)
 
-![](/assets/Selección_316.png)
+Donde escribimos el mensaje y pulsamos "Enviar"
 
+![](/assets/Selección_608.png)
