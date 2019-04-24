@@ -1,25 +1,12 @@
 Queremos que los cursos de aularagón estén vivos y que los docentes puedan ayudarnos a mejorarlos y actualizarlos.
 
-Para ello, estamos usando Gitbook como soporte para los contenidos. Además de otras ventajas, permite a los lectores** poder comentar los contenidos,** lo que permite sugerir ampliaciones, correcciones o mejoras que después serán analizadas por el equipo de Catedu.
+Para ello, estamos usando unaplataforma de documentación online  compatible con Github llamada Gitbook como soporte para los contenidos. 
 
-Si quieres añadir un comentario, pasa el ratón sobre el párrafo que quieras comentar y dejalo quieto un instante \(haz hover con el ratón\). Aparecerá un botón a la derecha del párrafo.
+Puedes editar directamente los contenidos de cualquiera de nuestros cursos en Github creando una nueva rama (branch) que será revisada por el equipo de CATEDU para su incorporación a los contenidos. El proceso se explica en este video
 
-![](/assets/FAQ comentarios2.png)
+https://youtu.be/JXamK7Lbp4I?t=56
 
-Gitbook te pedirá que **abras una cuenta** para poder comentar.
 
-![](/assets/FAQ comentarios2b.png)
-
-Ese enlace te lleva a la url donde podrás crear tu cuenta Gitbook
-
-![](/assets/FAQ comentarios2c.png)
-
-Ahora ya tienes una cuenta en gitbook, vuelve al párrafo donde querías hacer un comentario. 
-
-Escribe el comentario en el cuadro de texto que aparece y pulsa **"Post"**
-
-![](/assets/FAQ comentarios3.png)
-
-Ya está hecho. Recibiremos el comentario y lo tendremos en cuenta. **Vuestra colaboración es importante** para poder formar una comunidad de aprendizaje y mejorar juntos. 
+Ya está hecho. Recibiremos la aportación y la tendremos en cuenta. **Vuestra colaboración es importante** para poder formar una comunidad de aprendizaje y mejorar juntos. 
 
 
