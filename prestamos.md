@@ -14,7 +14,7 @@ Algunos cursos de Aularagón se pueden realizar con material prestado por CATEDU
         <a href="https://goo.gl/maps/b5NwjsyqcRojvknD9"><img src="/assets/cifemaubicacion.png" width="400" /></a>
     </div>
     <div class="col-md-6">
-        <img src="/assets/subidaCIFEMA.jpg" width="300"/>
+        <a href="https://rawcdn.githack.com/catedu/faq-aularagon/c18178d75b712058aed15d81eafb32d8b5a4c175/assets/subidaCIFEMA.jpg"><img src="/assets/subidaCIFEMA.jpg" width="300"/></a>
     </div>
 </div>
 
