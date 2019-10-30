@@ -22,6 +22,10 @@ Algunos cursos de Aularagón se pueden realizar con material prestado por CATEDU
 
 [Envíanos un tiquet](http://soporte.catedu.es/open.php) **con al menos 24 horas de antelación** y dejaremos el material preparado en conserjería.
 
+Para recogidas fuera de horario, la conserjería estará disponible:
+* 14:00 a 20:30 de lunes a jueves.
+* 14:00 a 18:30 los viernes.
+
 ### ¿Puede recogerlo otra persona por mí?
 
 Por supuesto. [Descarga este documento](https://drive.google.com/file/d/1uVmkZDku-b0pfUEHZrZZvqgolZVDheVa/view?usp=sharing), rellénalo y dáselo a tu persona de confianza.
