@@ -24,10 +24,14 @@
 ## Tareas
 
 * [¿Cómo actualizo mi perfil?](/actualizacion-perfil.md)
-* [¿Cuál es la puntuación mínima para aprobar un cuestionario en los mini-cursos?](cual-es-la-puntuacion-minima-para-aprobar-un-cuestionario-en-los-mini-cursos.md)
+* [¿Cuál es la puntuación mínima para aprobar un cuestionario en los **cursos no tutorizados**?](cual-es-la-puntuacion-minima-para-aprobar-un-cuestionario-en-los-mini-cursos.md)
 * [He realizado la tarea 'Presentaciones 3, 2, 1... ¡Ya!' pero no me la marca como completada](he-realizado-la-tarea-presentaciones-3-2-1-ya-pero-no-me-la-marca-como-completada.md)
 * [Entrega de tareas](entrega-de-tareas.md)
 * [Marcar actividad como completada](marcar-actividad-como-completada.md)
+
+## Préstamos de material
+
+* [¿Cómo se lleva a cabo el préstamo de material?](prestamos.md)
 
 ---
 
