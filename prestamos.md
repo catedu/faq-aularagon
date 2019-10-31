@@ -16,7 +16,7 @@ De **9:00 a 14:00** previo [aviso vía tiquet](http://soporte.catedu.es/open.php
 
 No olvides seleccionar como tema de ayuda **_"Reserva de material"_**.
 
-![](/assets/tiquet_material_horario.png)
+![](https://rawcdn.githack.com/catedu/faq-aularagon/bc4b5871abac39bc2db4c34ed152230b9b7993d7/assets/tiquet_material_horario.png)
 
 ### Lugar {##lugar}
 
