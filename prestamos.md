@@ -65,6 +65,6 @@ El plazo del préstamo finaliza cuando acaba el curso.
     *  Como la mayoría los ha creado Javier Quintana, puedes escribirle a direccion@catedu.es, o por chats: 
       - On line https://catedu.chatbro.com
       - Telegram:623197587
-      - Whatsapp al teléfono 623197587 o sin necesidad de añadirnos en tus contactos con este enlace 
+      - Whatsapp al teléfono 623197587
 
 Para cualquier duda de acceso, inscripción o certificación, envíanos un tiquet seleccionando el tema de ayuda _**Aularagón - Gestión**_.
