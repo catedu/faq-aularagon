@@ -1,5 +1,7 @@
 ## Préstamos de material
 
+**ATENCIÓN: SI NO SE SIGUEN ESTAS INSTRUCCIONES, SE PIERDE EL DERECHO A PRÉSTAMO.**
+
 * [Horario de recogida](#horario)
 * [Lugar de recogida](#lugar)
 * [¿Y si no puedo en ese horario?](#alternativa)
@@ -12,7 +14,9 @@ Algunos cursos de Aularagón se pueden realizar con material prestado por CATEDU
 
 ### Horario de recogida {#horario}
 
-De **9:00 a 14:00** previo [aviso vía tiquet](http://soporte.catedu.es/open.php) con **24 horas de antelación**. Puede ser que el día que quieras venir a recogerlo tengamos alguna reunión, baremación, encuentro... y no estemos para entregarte el material, por lo que es importante avisar.
+De **9:00 a 14:00** previo [aviso vía tiquet](http://soporte.catedu.es/open.php) con **48 horas de antelación**. Puede ser que el día que quieras venir a recogerlo tengamos alguna reunión, baremación, encuentro... y no estemos para entregarte el material, por lo que es importante avisar.
+
+**Es muy importante avisar con 48 horas de antelación.**
 
 No olvides seleccionar como tema de ayuda **_"Reserva de material"_**.
 
