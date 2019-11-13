@@ -60,11 +60,12 @@ El plazo del préstamo finaliza cuando acaba el curso.
 * Por favor devolverlos con el 100% de carga
 * El Lego Wedo, Arduino y Escornabot tiene muchas piezas, no podemos chequear todas en tu devolución, por favor respetar el equipo.
 * Menos Escornabot, el resto son cursos sin tutorización, pero puedes pedir ayuda:
-  * Para cualquier duda técnica o didáctica del robot, observaciones al contenido del curso, puedes hacerlo:
+  * Para cualquier duda **técnica o didáctica del robot**, observaciones al contenido del curso, puedes hacerlo:
     * via ticket: www.catedu.es -ticket Aularagón-contenidos
-    *  Como la mayoría los ha creado Javier Quintana, puedes escribirle a direccion@catedu.es, o por chats: 
-      - On line https://catedu.chatbro.com
-      - Telegram:623197587
-      - Whatsapp al teléfono 623197587
+    *  Como la mayoría los ha creado Javier Quintana (el de Escornabot mejor al tutor), puedes escribirle por chats: 
+      - Telegram: 623197587
+      - Whatsapp  623197587 o sin necesidad de añadirnos en tus contactos con este [enlace](https://api.whatsapp.com/send?phone=34623197587) desde tu móvil o este QR:
+      
+      ![](http://web.catedu.es/webcatedu/images/Unitag_QRCode_1557133418259.png)
 
 Para cualquier duda de acceso, inscripción o certificación, envíanos un tiquet seleccionando el tema de ayuda _**Aularagón - Gestión**_.
