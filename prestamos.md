@@ -14,34 +14,19 @@ Algunos cursos de Aularagón se pueden realizar con material prestado por CATEDU
 
 ### Horario de recogida {#horario}
 
-De **9:00 a 14:00** previo [aviso vía tiquet](http://soporte.catedu.es/open.php) con **48 horas de antelación**. Puede ser que el día que quieras venir a recogerlo tengamos alguna reunión, baremación, encuentro... y no estemos para entregarte el material, por lo que es importante avisar.
+Durante el mes de **Noviembre y Diciembre**:
+* Lunes, Martes y Jueves de 15:00 a 17:30
+* Miércoles y Viernes de 11 a 13:30
 
-**Es muy importante avisar con 48 horas de antelación.**
-
-No olvides seleccionar como tema de ayuda **_"Reserva de material"_**.
-
-![](https://catedu.gitbooks.io/faq-aularagon/content/assets/tiquet_material_horario.png)
+> **info**
+>**Previo aviso vía mail a saladerecursos@espaciomariadeavila.es y espera de confirmación.**
 
 ### Lugar {##lugar}
 
 * **Centro de Profesorado María de Ávila**, junto a IES Virgen del Pilar.
-* Paseo Reyes de Aragón, 20, 50012 Zaragoza
-* 2ª planta.
+* Sala de Recursos
 
-<div class="row">
-    <div class="col-md-6">
-        <a href="https://goo.gl/maps/b5NwjsyqcRojvknD9"><img src="/assets/cifemaubicacion.png" width="400" /></a>
-    </div>
-    <div class="col-md-6">
-        <a href="https://rawcdn.githack.com/catedu/faq-aularagon/c18178d75b712058aed15d81eafb32d8b5a4c175/assets/subidaCIFEMA.jpg"><img src="/assets/subidaCIFEMA.jpg" width="300"/></a>
-    </div>
-</div>
-
-### ¿Y si no puedo en ese horario? {#alternativa}
-
-Para recogidas fuera de horario, la conserjería estará disponible. Al avisarnos por tiquet, te dejaremos el material preparado:
-* 14:00 a 20:30 de lunes a jueves.
-* 14:00 a 18:30 los viernes.
+<a href="https://goo.gl/maps/b5NwjsyqcRojvknD9"><img src="/assets/cifemaubicacion.png" width="400" /></a>
 
 ### ¿Puede recogerlo otra persona por mí? {#otra_persona_recoge}
 
@@ -49,7 +34,7 @@ Por supuesto. [Descarga este documento](https://drive.google.com/file/d/1uVmkZDk
 
 ### Devoluciones {#devoluciones}
 
-El plazo del préstamo finaliza cuando acaba el curso.
+Al finalizar el curso.
 
 ### Condiciones {#condiciones}
 
