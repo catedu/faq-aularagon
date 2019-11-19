@@ -2,14 +2,14 @@
 
 Para contactar con tu tutor, desde la página inicial del curso, clica en participantes.
 
-![](https://catedu.gitbooks.io/faq-aularagon/content/assets/Selección_606.png)
+![](https://catedu.gitbooks.io/faq-aularagon/contenthttps://catedu.gitbooks.io/faq-aularagon/content/assets/Selección_606.png)
 
 Clicamos en  el nombre del usuario que tiene como Rol _Profesor_.
 
 Una vez en su página de perfil, clicamos en _Mensaje_.
 
-![](https://catedu.gitbooks.io/faq-aularagon/content/assets/Selección_607.png)
+![](https://catedu.gitbooks.io/faq-aularagon/contenthttps://catedu.gitbooks.io/faq-aularagon/content/assets/Selección_607.png)
 
 Donde escribimos el mensaje y pulsamos "Enviar"
 
-![](https://catedu.gitbooks.io/faq-aularagon/content/assets/Selección_608.png)
+![](https://catedu.gitbooks.io/faq-aularagon/contenthttps://catedu.gitbooks.io/faq-aularagon/content/assets/Selección_608.png)
