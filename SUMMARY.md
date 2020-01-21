@@ -8,6 +8,8 @@
 * [¿Cómo puedo aportar y mejorar los cursos?](como-puedo-aportar-y-mejorar-los-cursos.md)
 * [Cómo contactar con el tutor](como-contactar-con-el-tutor.md)
 
+## Inscripción
+
 ## Descarga
 * [¿Cómo puedo descargar los contenidos?](como-puedo-descargar-los-contenidos.md)
 
