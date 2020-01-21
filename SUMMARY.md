@@ -3,14 +3,17 @@
 * [Introducción](README.md)
 * [Accede a esta ayuda desde Aularagón](accede-a-preguntas-frecuentes.md)
 
-
 ## Comunidad
+
 * [¿Cómo puedo aportar y mejorar los cursos?](como-puedo-aportar-y-mejorar-los-cursos.md)
 * [Cómo contactar con el tutor](como-contactar-con-el-tutor.md)
 
 ## Inscripción
 
+* [Colectivo al que pertenezco para la inscripción a Aularagón.](inscripcion/colectivo-al-que-pertenezco-para-la-inscripcion-a-aularagon.md)
+
 ## Descarga
+
 * [¿Cómo puedo descargar los contenidos?](como-puedo-descargar-los-contenidos.md)
 
 ## Finalización del curso
@@ -26,7 +29,7 @@
 ## Tareas
 
 * [¿Cómo actualizo mi perfil?](/actualizacion-perfil.md)
-* [¿Cuál es la puntuación mínima para aprobar un cuestionario en los **cursos no tutorizados**?](cual-es-la-puntuacion-minima-para-aprobar-un-cuestionario-en-los-mini-cursos.md)
+* [¿Cuál es la puntuación mínima para aprobar un cuestionario en los cursos no tutorizados?](cual-es-la-puntuacion-minima-para-aprobar-un-cuestionario-en-los-mini-cursos.md)
 * [He realizado la tarea 'Presentaciones 3, 2, 1... ¡Ya!' pero no me la marca como completada](he-realizado-la-tarea-presentaciones-3-2-1-ya-pero-no-me-la-marca-como-completada.md)
 * [Entrega de tareas](entrega-de-tareas.md)
 * [Marcar actividad como completada](marcar-actividad-como-completada.md)
@@ -38,3 +41,4 @@
 ---
 
 * [Créditos](crditos.md)
+
