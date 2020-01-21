@@ -3,6 +3,7 @@
 **ATENCIÓN: SI NO SE SIGUEN ESTAS INSTRUCCIONES, SE PIERDE EL DERECHO A PRÉSTAMO.**
 
 * [Horario de recogida](#horario)
+* [Horario de devolución](#devolucion)
 * [Lugar de recogida](#lugar)
 * [¿Y si no puedo en ese horario?](#alternativa)
 * [¿Puede recogerlo otra persona por mí?](#otra_persona_recoge)
@@ -14,7 +15,13 @@ Algunos cursos de Aularagón se pueden realizar con material prestado por CATEDU
 
 ### Horario de recogida {#horario}
 
-Durante el mes de **Noviembre y Diciembre**:
+**SOLO** durante el meses de **Noviembre, Marzo y Junio**:
+* Lunes, Martes y Jueves de 15:00 a 17:30
+* Miércoles y Viernes de 11 a 13:30
+
+### Horario de devolución {#devolucion}
+
+**SOLO** durante el meses de **Septiembre , Febrero y Junio**:
 * Lunes, Martes y Jueves de 15:00 a 17:30
 * Miércoles y Viernes de 11 a 13:30
 
