@@ -2,8 +2,8 @@
 
 **ATENCIÓN: SI NO SE SIGUEN ESTAS INSTRUCCIONES, SE PIERDE EL DERECHO A PRÉSTAMO.**
 
-* [Horario de recogida](#horario)
-* [Horario de devolución](#devolucion)
+* [Cuando](#cuando)
+* [Horario](#horario)
 * [Lugar de recogida](#lugar)
 * [¿Y si no puedo en ese horario?](#alternativa)
 * [¿Puede recogerlo otra persona por mí?](#otra_persona_recoge)
@@ -13,15 +13,21 @@
 
 Algunos cursos de Aularagón se pueden realizar con material prestado por CATEDU. Una vez se publica la lista de admitidos en cada convocatoria, aquellos participantes de los cursos con material en préstamo, pueden pasar a recogerlo **simplemente enseñando su DNI**.
 
-### Horario de recogida {#horario}
+### Cuando{#cuando}
+######AULARAGON 1ª CONVOCATORIA
+* Recogida durante el mes de **noviembre** después de la publicación de la lista de admitidos
+* Devolución durante el mes de **febrero**
 
-**SOLO** durante el meses de **Noviembre, Marzo y Junio**:
-* Lunes, Martes y Jueves de 15:00 a 17:30
-* Miércoles y Viernes de 11 a 13:30
+######AULARAGON 2ª CONVOCATORIA
+* Recogida durante el mes de **febrero **después de la publicación de la lista de admitidos
+* Devolución durante el mes de **junio**
 
-### Horario de devolución {#devolucion}
+######AULARAGON VERANO
+* Recogida durante el mes de **junio **después de la publicación de la lista de admitidos
+* Devolución durante el mes de **septiembre**
 
-**SOLO** durante el meses de **Septiembre , Febrero y Junio**:
+### Horario{#horario}
+
 * Lunes, Martes y Jueves de 15:00 a 17:30
 * Miércoles y Viernes de 11 a 13:30
 
