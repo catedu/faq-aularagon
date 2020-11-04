@@ -28,11 +28,12 @@ Algunos cursos de Aularagón se pueden realizar con material prestado por CATEDU
 
 ### Horario{#horario}
 
-* Lunes, Martes y Jueves de 15:00 a 17:30
-* Miércoles y Viernes de 11 a 13:30
+* Martes: 16:00 a 19:00 h.
+* Miércoles: 09:00 a 13:00 h.
+* Jueves: 16:00 a 19:00 h.
 
 > **info**
->**Previo aviso vía mail a saladerecursos@espaciomariadeavila.es y espera de confirmación.**
+>**ATENCIÓN, dada la situación COVID-19 es obligatorio la PETICIÓN DE CITA vía mail a saladerecursos@espaciomariadeavila.es y espera de confirmación.**
 
 ### Lugar {##lugar}
 
