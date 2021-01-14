@@ -1,6 +1,6 @@
 Queremos que los cursos de aularagón estén vivos y que los docentes puedan ayudarnos a mejorarlos y actualizarlos.
 
-Para ello, estamos usando unaplataforma de documentación online  compatible con Github llamada Gitbook como soporte para los contenidos. 
+Para ello, estamos usando Github como soporte para los contenidos. 
 
 Puedes editar directamente los contenidos de cualquiera de nuestros cursos en Github creando una nueva rama (branch) que será revisada por el equipo de CATEDU para su incorporación a los contenidos. El proceso se explica en este video
 

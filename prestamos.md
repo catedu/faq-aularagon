@@ -40,7 +40,7 @@ Algunos cursos de Aularagón se pueden realizar con material prestado por CATEDU
 * **Centro de Profesorado María de Ávila**, junto a IES Virgen del Pilar.
 * Sala de Recursos
 
-<a href="https://goo.gl/maps/b5NwjsyqcRojvknD9"><img src="https://catedu.gitbooks.io/faq-aularagon/content/assets/cifemaubicacion.png" width="400" /></a>
+<a href="https://goo.gl/maps/b5NwjsyqcRojvknD9"><img src="https://catedu.github.io/faq-aularagon/assets/cifemaubicacion.png" width="400" /></a>
 
 ### ¿Puede recogerlo otra persona por mí? {#otra_persona_recoge}
 

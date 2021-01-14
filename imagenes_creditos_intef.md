@@ -5,8 +5,8 @@ Los contenidos se distribuye bajo licencia Creative Commons tipo BY-SA.
 
 
 
-![](https://catedu.gitbooks.io/faq-aularagon/content/assets/Educacion_color.gif)
+![](https://catedu.github.io/faq-aularagon/assets/Educacion_color.gif)
 
-![](https://catedu.gitbooks.io/faq-aularagon/content/assets/catedulogo.png)
+![](https://catedu.github.io/faq-aularagon/assets/catedulogo.png)
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)

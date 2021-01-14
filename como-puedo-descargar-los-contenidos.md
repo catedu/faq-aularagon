@@ -1,5 +1,7 @@
 ##### Descarga los contenidos del curso en los siguientes formatos: PDF, EPUB o MOBI
 
-Entra en [https://legacy.gitbook.com/@catedu](https://legacy.gitbook.com/@catedu) escoge el libro que quieras y descárgatelo:
+Muchos de nuestros cursos, **no todos**, tienen disponibles sus contenidos para la descarga como libro electrónico en tres formatos: epub, pdf y mobi.
 
-![](https://catedu.gitbooks.io/faq-aularagon/contenthttps://catedu.gitbooks.io/faq-aularagon/content/assets/descargacursos.png)
+Busca al final de cada curso los enlaces correspondientes.
+
+![](https://catedu.github.io/faq-aularagon/assets/descargacursos.png)
