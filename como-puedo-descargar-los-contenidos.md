@@ -1,7 +1,10 @@
-##### Descarga los contenidos del curso en los siguientes formatos: PDF, EPUB o MOBI
+##### Descarga los contenidos del curso.
 
-Muchos de nuestros cursos, **no todos**, tienen disponibles sus contenidos para la descarga como libro electrónico en tres formatos: epub, pdf y mobi.
 
-Busca al final de cada curso los enlaces correspondientes.
+1. Como enlaces a un libro electrónico. En ese caso puedes encontrar los enlaces de descarga al final de la página principal de cada curso.
 
-![](https://catedu.github.io/faq-aularagon/assets/descargacursos.png)
+    ![](https://catedu.github.io/faq-aularagon/assets/descargacursos.png)
+
+1. Como libros moodle. En ese caso, accediendo a cada contenido en concreto puedes descargarlo en pdf.
+
+    ![](https://catedu.github.io/faq-aularagon/assets/descargar_capitulo.gif)
